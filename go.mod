@@ -2,4 +2,4 @@ module github.com/Sodikjon/stats
 
 go 1.15
 
-require github.com/Sodikjon/bank v0.0.0-20200927143754-d2f54b480c33 // indirect
+require github.com/Sodikjon/bank v0.0.0-20200927150403-072f33cfb8e2 // indirect
