@@ -1,7 +1,5 @@
 package stats
 
-import "github.com/Sodikjon/bank/pkg/types"
-
 // Avg рассчитывает среднюю сумму платежа.
 func Avg(payments []types.Payment) types.Money {
 	avg := types.Money(0)
